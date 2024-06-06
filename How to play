@@ -1,0 +1,7 @@
+Initial Cards: Both the player and dealer receive two cards. The player's cards are revealed, while only one of the dealer's cards is shown.
+
+Player's Turn: If the player's total is less than 17, they are prompted to hit or stand. This continues until the player stands or busts (exceeds 21).
+
+Dealer's Turn: The dealer draws cards until the total is at least 17.
+
+Final Comparison: The game compares the player's and dealer's totals to declare the winner.

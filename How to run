@@ -1,0 +1,10 @@
+Ensure Python is installed on your machine.
+
+Save the script to a file, e.g., blackjack.py.
+
+Open a terminal or command prompt.
+
+Navigate to the script's directory.
+
+Run the script using:
+python blackjack.py
